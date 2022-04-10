@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646475234159",
+    "project_id": "taadeli-dd032",
+    "storage_bucket": "taadeli-dd032.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646475234159:android:4913adfbf8c51a30d2069a",
+        "android_client_info": {
+          "package_name": "com.skander.taadeli"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646475234159-ncvaq3snmoq5gguasnk7btibgsnp2lvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsFuvfJw0-uAoYeWZyUT2H8NCXMsjXljQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646475234159-ncvaq3snmoq5gguasnk7btibgsnp2lvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
